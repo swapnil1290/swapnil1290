@@ -22,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil1290&show_icons=true&locale=en" alt="swapnil1290" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil1290&" alt="swapnil1290" /></p>
-
